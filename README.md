@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hola, soy Rodrigo
+Desarrollador web especializado en **React + Express + MongoDB o MySQL**.  
+Apasionado por el diseño limpio, la optimización del rendimiento y la creación de experiencias digitales modernas.
 
-<!--
-**Rodrigo-Schwindt/Rodrigo-Schwindt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologías
+💻 Frontend: React, Next.js, Tailwind  
+🛠 Backend: Node.js, Express, MongoDB, MySQL  
+⚙️ DevOps: GitHub  
+🎨 Diseño: Figma, Photoshop, Camva
 
-Here are some ideas to get you started:
+## 📫 Contacto
+🌐 [protto.dev](https://protto.dev)  
+📧 rodrigo.schwindt@gmail.com
+💼 [LinkedIn](linkedin.com/in/rodrigo-garcia-schwindt-233b8a350)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

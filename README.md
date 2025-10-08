@@ -11,5 +11,5 @@ Apasionado por el diseño limpio, la optimización del rendimiento y la creació
 ## 📫 Contacto
 🌐 [protto.dev](https://protto.dev)  
 📧 rodrigo.schwindt@gmail.com
-💼 www.linkedin.com/in/rodrigo-garcia-schwindt-233b8a350
+💼 [Linkedin]www.linkedin.com/in/rodrigo-garcia-schwindt-233b8a350
 
